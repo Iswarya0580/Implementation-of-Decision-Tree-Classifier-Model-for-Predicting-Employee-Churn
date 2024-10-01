@@ -23,11 +23,10 @@ Step 10. End
 ```
 ## Program:
 ```
-/*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by  :  Iswarya P
 RegisterNumber:  212223230082
-*/
+
 ```
 ```
 import pandas as pd
